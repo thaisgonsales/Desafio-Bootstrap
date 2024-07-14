@@ -1,0 +1,112 @@
+nav{
+    background-color: #28a745;
+    font-family: 'Roboto';
+    font-weight: 500;
+}
+
+
+.img-logo{
+    width: 10rem;
+    margin-left: 5rem;
+
+}
+
+.card-title{
+    font-family: 'Roboto';
+    font-weight: 300;
+    color: #212529;
+    font-size: 20px;
+}
+
+.card-text{
+    font-family: 'Roboto';
+    font-weight: 300;
+    color: #707070;
+    font-size: 16px;
+}
+
+.info-card{
+    font-family: 'Roboto';
+    font-weight: 300;
+    color: #707070;
+    font-size: 13px;
+}
+
+h3{
+    font-family: 'Roboto';
+    font-weight: 500;
+    color: #28a745;
+    font-size: 21px;
+}
+
+h4{
+    font-family: 'Roboto';
+    font-weight: 500;
+    color: #707070;
+    font-size: 15px;
+}
+
+.precio-container{
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+}
+
+h3,h4{
+
+    margin: 0.5rem;
+}
+
+.form-container{
+    background-color: #28a745;
+    font-family: 'Roboto';
+    font-weight: 300;
+    padding-bottom: 0.5rem;
+}
+
+.text-form{
+    font-family: 'Roboto';
+    font-weight: 500;
+    display: flex;
+    justify-content: center;
+    color: #fff;
+    font-size: 21px;
+    padding-top: 1.5rem;
+}
+
+.form-control {
+    border-radius: 0;
+    font-family: 'Roboto';
+    font-weight: 300;
+    font-size: 16px;
+    color: #707070;
+}
+
+.btn{
+    font-family: 'Roboto';
+    font-weight: 500;
+    font-size: 16px;
+    display: flex;
+    justify-content: center;
+}
+
+
+.img-logo-footer{
+    width: 8rem;
+    padding-top: 2rem;
+}
+
+.container-footer{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+footer p{
+    display: flex;
+    justify-content: center;
+    font-family: 'Roboto';
+    font-weight: 300;
+    font-size: 16px;
+    color: #707070;
+ }
